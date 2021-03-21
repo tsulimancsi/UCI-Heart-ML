@@ -1,5 +1,5 @@
 # UCI-Heart-ML
-<<<<<<< HEAD
+
 
 ## Heart Patient Data Visualization &amp; Prediction using Machine Learning
 
@@ -55,10 +55,3 @@
 
 
 ### References 
-
-
-
-=======
-## Visualization of Heart Disease Prediction using Machine Learning Algorithms 
->>>>>>> 731ff061ecae54eb5abbc5d54a99d1bdb9a1cab0
-
