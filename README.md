@@ -27,6 +27,7 @@
 
 
 ###  Seaborn 
+
 Seaborn
 Seaborn is a statistical infographics library, which builds on the capabilities of Matplotlib. Seaborn
 was designed to augment Matplotlib’s functions and tools, addressing some of the common issues
@@ -82,9 +83,9 @@ regression lines for scatter plots and interprets time series data
 
 #####  2.1 Algoritm Model Visualizatio
 
-##### 1.2 Algorithm Execution Visualization 
+##### 2.2 Algorithm Execution Visualization 
 
-##### 1.3 Algorithm Results & Prediction Visualization
+##### 2.3 Algorithm Results & Prediction Visualization
 
 
 
